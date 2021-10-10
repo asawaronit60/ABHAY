@@ -5,7 +5,7 @@ const multer = require('multer')
 const cloudinary = require('cloudinary')
 const fsExtra = require('fs-extra')
 const fs = require('fs')
-var sightengine = require('sightengine')('1116772673', 'qmcoBVYhubKmPw59Q2FK');
+var sightengine = require('sightengine')('1294866927', 'xL6p7JdqNucZu7EX5jsA');
 const dotenv = require("dotenv");
 dotenv.config({ path: "./config.env" });
 
